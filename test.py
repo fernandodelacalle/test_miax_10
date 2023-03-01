@@ -1,11 +1,3 @@
+import pandas as pd
 
-print("adios")
-print("HOLA1")
-print("HOLA3")
-
-print("HOLA4")
-print("HOLA4")
-
-
-print("asldjfla")
-
+print('hola que tal?')
